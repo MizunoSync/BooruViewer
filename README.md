@@ -1,2 +1,6 @@
 # BooruViewer
-This is inspired by boorusama but doesn't have too many features, its easy to look into sites in a compact UI
+EdgeWebView is required download at (https://developer.microsoft.com/pt-br/microsoft-edge/webview2/) 
+Require Libraries/Dependencies
+pip install kivy requests beautifulsoup4 playwright
+playwright install msedge
+playwright install chromium
